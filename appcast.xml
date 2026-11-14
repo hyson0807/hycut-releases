@@ -4,6 +4,14 @@
         <title>HyCut</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sat, 14 Nov 2026 23:40:26 +0900</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hyson0807/hycut-releases/releases/download/v0.1.0-b27/HyCut-0.1.0-b27.zip" length="7493893" type="application/octet-stream" sparkle:edSignature="UfH/4TESR2y/TC4isbu5kysIIci3Sp7ERKUKNei8WoBCv/ZHNDVBAybpkfpq7fiCORp1zoy+HkFhtGD0ln6NAw=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sat, 14 Nov 2026 23:28:58 +0900</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
