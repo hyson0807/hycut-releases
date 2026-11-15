@@ -4,6 +4,14 @@
         <title>HyCut</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Sun, 15 Nov 2026 13:29:01 +0900</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/hyson0807/hycut-releases/releases/download/v0.1.0-b49/HyCut-0.1.0-b49.zip" length="10457008" type="application/octet-stream" sparkle:edSignature="wO5u2EYNUCQ8/+VUGZnsEr+AAOTUsrCdJjMG0Xq+e3uJRWZdzDvleUHuGXN9y64o89RYrm/kjZskDz3KX5MwBA=="/>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 15 Nov 2026 12:27:56 +0900</pubDate>
             <sparkle:version>47</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/hyson0807/hycut-releases/releases/download/v0.1.0-b46/HyCut-0.1.0-b46.zip" length="8255811" type="application/octet-stream" sparkle:edSignature="Py3ehCYAoJ4FnN9J3upOJUkJRNl+7ppBOl2RKZY66BpuSyLy0bkOHH6bcV1FpbicT67LrGk5rtxikpyNdL1xBQ=="/>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Sun, 15 Nov 2026 00:36:38 +0900</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hyson0807/hycut-releases/releases/download/v0.1.0-b28/HyCut-0.1.0-b28.zip" length="7554500" type="application/octet-stream" sparkle:edSignature="ecqEhHaBKrNccH52XCC74ljs1+kP0D7oCb7mQ93u5Mt5fyUPJN0UHZbJL5N5u+uWToZavXzPcrqAalVO/iLDDA=="/>
         </item>
     </channel>
 </rss>
